@@ -1,3 +1,4 @@
+![Minha BAG Alura](https://github.com/enivaldo20/Challenge-Conversor-de-Moedas/assets/128000113/8fbb58a5-0fe3-4bce-985c-ab52f7c3ceaf)
 # Challenge Oracle ONE | Converter
 
 <img alt="Project status" title="Project status" src="https://badgen.net/badge/status/complete/green?icon=github">
